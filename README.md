@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 **Flashy**
+
 Full-stack developer & bytecode manipulator
