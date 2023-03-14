@@ -39,15 +39,15 @@ Full-stack developer & bytecode manipulator
 ### **Languages**
 
 - **Java** (40+ Projects)
-  PBCO.dev (Java Obfuscation)
-  Pulsive Client (MC Modification)
-  Trone authenticator (MongoDB)
-  Bozar+ (Open source obfuscator)
-  PBCO Native (Native obfuscator **IN THE WORKS**)
+  - PBCO.dev (Java Obfuscation)
+  - Pulsive Client (MC Modification)
+  - Trone authenticator (MongoDB)
+  - Bozar+ (Open source obfuscator)
+  - PBCO Native (Native obfuscator **IN THE WORKS**)
 
 - **C#**
-  Trone C# Base
-  Multiple misc projects
-  Anti-cheat base for unity
-  Multiple games
+  - Trone C# Base
+  - Multiple misc projects
+  - Anti-cheat base for unity
+  - Multiple games
   
