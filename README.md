@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Full-stack developer & bytecode manipulator
 
 
-###**Skills**
+### **Skills**
 
 - Bytecode ((de)Obfuscation)
 - Reverse Engineering
@@ -36,7 +36,7 @@ Full-stack developer & bytecode manipulator
 - SQL
 - Server management
 
-###**Languages**
+### **Languages**
 
 - **Java** (40+ Projects)
   PBCO.dev (Java Obfuscation)
