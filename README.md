@@ -35,6 +35,7 @@ Full-stack developer & bytecode manipulator
 - MognoDB
 - SQL
 - Server management
+- FastAPI (& pyserver)
 
 ### **Languages**
 
