@@ -50,4 +50,23 @@ Full-stack developer & bytecode manipulator
   - Multiple misc projects
   - Anti-cheat base for unity
   - Multiple games
-  
+
+- **C++**
+  - Trone C++ Base
+  - Pulsive CS Kernel (With Kuba Morinkton)
+  - Pulsive CS (Paste)
+  - Trone Kernel
+  - PVPN (Open VPN)
+  - Trone C++ Authenticator
+
+- **Python**
+  - Data Management! 
+  - Not much more than scripts.
+   
+- **A few other languages not worth noting**
+  - Go
+  - Rust
+  - Swift
+  - PHP
+
+That's all im good for :)
