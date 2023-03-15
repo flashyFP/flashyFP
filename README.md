@@ -70,4 +70,8 @@ Full-stack developer & bytecode manipulator
   - Swift
   - PHP
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/GuFFy12/count.svg" />
+</p>
+
 That's all im good for :)
