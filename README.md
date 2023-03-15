@@ -70,8 +70,18 @@ Full-stack developer & bytecode manipulator
   - Swift
   - PHP
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/GuFFy12/count.svg" />
+ <br>
+ <p align="center">
+ 	<b>Languages</b>
+	<br>
+		<br><br>
+	<b>My Github Stats</b>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flashyFP&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=flashyFP&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashyFP&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
 
 That's all im good for :)
