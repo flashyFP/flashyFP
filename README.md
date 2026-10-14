@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### **Hey, im FlashyFP**
+### **Hey, I'm FlashyFP**
 
 
 
-### **Currently working on FlowGuard (https://discord.gg/nHca5MH4Ve) **
+### **Currently working on FlowGuard (https://discord.gg/nHca5MH4Ve)**
 
 - *Commercial-Grade Java Obfuscator*
   - Complex Virtualization Engine
