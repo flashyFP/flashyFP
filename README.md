@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### **Currently working on FlowGuard**
+### **Currently working on FlowGuard (https://discord.gg/nHca5MH4Ve) **
 
 - *Commercial-Grade Java Obfuscator*
   - Complex Virtualization Engine
