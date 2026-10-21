@@ -38,6 +38,14 @@ Here are some ideas to get you started:
 	- Strong Anti-Tampering, Anti-Hooking and Anti-Debugging
 	- Ultra-Complex VM, with multiple architectures.
 
+- *Commercial-Grade C++/C Obfuscator*
+  - Implementation / Port of the FlowGuard Virtualization engine
+  - Mutation engine
+  	- Flow Flattening
+	- String Encryption (Ported from FlowGuard-Java)
+	- Advanced Opcode Mutation.
+  - Full x64 Compatibility.
+
 ### **Legacy Projects**
 
 - **Java** (40+ Projects)
