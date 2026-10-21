@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 - *Commercial-Grade C++/C Obfuscator*
   - Implementation / Port of the FlowGuard Virtualization engine
+  - Custom assembly to bytecode SDK for mutation engine.
   - Mutation engine
   	- Flow Flattening
 	- String Encryption (Ported from FlowGuard-Java)
